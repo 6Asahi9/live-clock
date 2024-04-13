@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: pink;
+    
+}
+#container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#clock{
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  palevioletred;
+    font-weight: lighter;
+}
